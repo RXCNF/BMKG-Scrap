@@ -1,0 +1,9 @@
+Keterangan Scraping Kelompok 3 Text Processing 2023C
+
+Judul: Analisis Sentimen pada Ulasan Aplikasi BMKG di Play Store
+
+Alasan: Kita ingin membuat proyek analisis sentimen pada ulasan aplikasi BMKG di Play Store karena ulasan pengguna sering mencerminkan persepsi yang beragam terkait kinerja aplikasi, terutama pada aplikasi pemerintah yang kerap mendapat keluhan terkait bug, fitur yang tidak berfungsi, atau antarmuka yang kurang ramah.
+
+Rentang tahun: 2018-09-18 sampai 2024-10-05
+
+Jumlah data: 5000 Komentar ulasan playstore
